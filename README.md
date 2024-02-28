@@ -26,4 +26,4 @@ return art.sendMessage(from, Profile, message)
     <img src="https://img.shields.io/badge/Sublime%20Text-gray?&logo=Sublime-Text" />
 <br> 
 <div align="center">
-<a href="itsmerip"><img src="https://komarev.com/ghpvc/?username=itsmerip&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="itsmerip" /></a>
+<a href="itsme"><img src="https://komarev.com/ghpvc/?username=itsme&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="itsme" /></a>
