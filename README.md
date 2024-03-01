@@ -1,19 +1,6 @@
 ```
-// Announcement
 
-const Me = require("art-client")
-const art = new Me()
-const { 
-     from,
-     message
-} = art
-const Profile = {
-    name: "artour",
-    status: "Student Of High School",
-    hobby: "Playing Football",
-    skill: "Copy & Paste"
-}
-return art.sendMessage(from, Profile, message)
+Anti Hero • ⁴̅⁰͍⁴̵〆
 
 ```
 <br>
