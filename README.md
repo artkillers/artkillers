@@ -1,6 +1,6 @@
 ```
 
-Anti Hero • ⁴̅⁰͍⁴̵〆
+ARTSKUY
 
 ```
 <br>
